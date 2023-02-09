@@ -1,2 +1,0 @@
-class VoitureTransformation : 
-    pass
